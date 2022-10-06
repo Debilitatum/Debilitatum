@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nathan_hina
 - 👀 I’m interested in ... Software Engineering, Problem solving, Coding and branching paths that Computer Science can offer keeping an open-mindset
 - 🌱 I’m currently learning ... Computer Science
-- 💞️ I’m looking to collaborate on ... projects that either have a challenging problem or create an experience that I can learn from through teh journey taken.
+- 💞️ I’m looking to collaborate on ... projects that either have a challenging problem or create an experience that I can learn from through the journey taken.
 - 📫 How to reach me ... Mobile Phone - 07507 088129, LinkedIn - Linkedin.com/in/nathan-hina-146676209/, E-Mail - nathan.hina@hotmail.co.uk
 
 <!---
